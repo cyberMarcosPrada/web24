@@ -4,7 +4,7 @@ body {
 
 * {
     box-sizing: border-box;
-    color: rgb(0, 110, 16);
+    color: rgb(110, 0, 0);
 }
 
 /* For desktop: */
@@ -128,7 +128,7 @@ nav li {
 }
 
 nav li a {
-    color: rgb(10, 232, 236);
+    color: rgb(254, 0, 0);
 }
 
 nav li:hover {
@@ -156,7 +156,7 @@ a {
 }
 
 .bg-azul-o {
-    background-color: rgb(56, 222, 0);
+    background-color: rgb(222, 0, 0);
 }
 .bg-azul-c {
     background-color: rgb(240, 249, 252);
@@ -212,7 +212,7 @@ h1 {
     font-weight: bold;
 }
 #enlaces a {
-color: darkgreen;
+color: yellow;
 font-size: 28px;
 text-decoration: underline;
 }
@@ -250,15 +250,86 @@ text-decoration: underline;
 }
 #listas .listadefcustom dt {
     display: inline;
-    background-color: aquamarine;
+    background-color: yellow;
     color: rgb(15, 15, 36);
     font-size: 22px;
     font-weight: bold;
 }
-
-
-
 .tablaClase{margin: 0 auto;
 width: 50%;
+background-color: grey;
 
 }
+.lm {
+    background-color: #64b4f0;
+}
+
+.ende {
+    background-color: #96dc96;
+}
+
+.prog {
+    background-color: #d2d26e;
+}
+
+.pimd {
+    background-color: #bc7878;
+}
+
+.dasp {
+    background-color: #ffa264;
+}
+.sisi {
+    background-color: #0080ff;
+}
+.bdd {
+    background-color: #64aa96;
+}
+.ipe {
+    background-color: #f0f0c8;
+}
+.ipcg {
+    background-color: #00df00;
+}
+.sasp {
+    background-color: #d2d2ff;
+}
+
+
+.img-01 {
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img-02 {
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img-03 {
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img-04 {
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img-05 {
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img-06 {
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
