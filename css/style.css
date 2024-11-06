@@ -231,9 +231,33 @@ text-decoration: underline;
 #listas .customdes li li{
     list-style-type: upper-roman;
 }
-#listas .customdes li li li{
-    list-style-type: upper-latin;
+
+#listas .customord li li {
+    list-style-type: upper-alpha;
 }
+#listas .customord li li li{
+    list-style-type: decimal;
+}
+#listas .customico li li {
+    list-style-image: url("../img/corazon.png");
+}
+#listas .customico li li li{
+    list-style-image: none;
+    list-style-type: circle;
+}
+#listas .listadefcustom  {
+    width: 30%;
+}
+#listas .listadefcustom dt {
+    display: inline;
+    background-color: aquamarine;
+    color: rgb(15, 15, 36);
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+
 .tablaClase{margin: 0 auto;
 width: 50%;
 
