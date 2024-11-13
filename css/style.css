@@ -239,7 +239,7 @@ text-decoration: underline;
     list-style-type: decimal;
 }
 #listas .customico li li {
-    list-style-image: url("..img/corazon.png");
+    list-style-image: url("../img/corazon.png");
 }
 #listas .customico li li li{
     list-style-image: none;
@@ -297,6 +297,7 @@ background-color: grey;
 
 
 .img-01 {
+    
     display: block;
     width: 350px;
     display: flex;
@@ -304,6 +305,7 @@ background-color: grey;
     align-items: center;
 }
 .img-02 {
+    
     display: block;
     width: 350px;
     display: flex;
@@ -311,6 +313,7 @@ background-color: grey;
     align-items: center;
 }
 .img-03 {
+    
     display: block;
     width: 350px;
     display: flex;
@@ -318,6 +321,7 @@ background-color: grey;
     align-items: center;
 }
 .img-04 {
+   
     display: block;
     width: 350px;
     display: flex;
@@ -325,6 +329,7 @@ background-color: grey;
     align-items: center;
 }
 .img-05 {
+  
     display: block;
     width: 350px;
     display: flex;
@@ -332,6 +337,7 @@ background-color: grey;
     align-items: center;
 }
 .img-06 {
+   
     display: block;
     width: 350px;
     display: flex;
@@ -349,4 +355,16 @@ background-color: grey;
     margin: 0 auto;
 width: 70%;
     
+}
+.formlogin{
+    float: left;
+    margin: 0 auto;
+    width: 30%;
+}
+.formregister{
+  
+}
+.formhtml5{
+    
+
 }
